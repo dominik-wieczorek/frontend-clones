@@ -1,0 +1,39 @@
+.navbar {
+    background: #000;
+    height: 88px;
+    display: flex;
+    padding: 0 30px 0 30px;
+}
+
+.helpcenter {
+    color: #fff;
+    text-decoration: none;
+    border-left: white solid 2px;
+    padding: 2px 0 4px 0.8rem;
+    margin: 4px 0 0 0.8rem;
+    line-height: 23px;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.logo {
+    height: 2rem;
+    width: 126px;
+}
+
+.logo_wrapper {
+    margin-left: 2rem;
+    display: flex;
+}
+
+.wrapper {
+    margin: auto;
+}
+
+.submit_button {
+    border: white solid 1px;
+    color: #fff;
+    border-radius: 8px;
+;
+}
