@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: "GT-America-Regular";   /*Can be any text*/
+  src: local("GT-America-Regular"),
+    url("./fonts/GT-America-Regular.ttf") format("truetype");
+}
